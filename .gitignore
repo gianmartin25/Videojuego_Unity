@@ -1,0 +1,25 @@
+# Archivos que Unity genera automáticamente y no deben estar en Git
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+sysinfo.txt
+
+# Archivos del entorno de desarrollo
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos del sistema operativo
+.DS_Store
+*.apk
+*.log
